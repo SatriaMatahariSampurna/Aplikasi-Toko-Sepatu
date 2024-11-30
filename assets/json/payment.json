@@ -1,0 +1,31 @@
+{
+    "payment": [
+        {
+          "name": "Visa",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Visa.svg/200px-Visa.svg.png",
+          "id": "visa"
+        },
+        {
+          "name": "Mastercard",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/200px-Mastercard-logo.svg.png",
+          "id": "mastercard"
+        },
+        {
+          "name": "PayPal",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/200px-PayPal.svg.png",
+          "id": "paypal"
+        },
+        {
+          "name": "Apple Pay",
+          "logo_url": "https://cdn-icons-png.flaticon.com/512/5968/5968209.png",
+          "id": "applepay"
+        },
+        {
+          "name": "Google Pay",
+          "logo_url": "https://static-00.iconduck.com/assets.00/google-pay-icon-2048x1405-mkch8mpk.png",
+          "id": "googlepay"
+        }
+       
+      ]
+      
+}

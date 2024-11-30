@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923394600330",
+    "project_id": "tokosepatu-satria",
+    "storage_bucket": "tokosepatu-satria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923394600330:android:99c0b4666bd10e0494ec73",
+        "android_client_info": {
+          "package_name": "com.example.toko_sepatu_satria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_uol8MxtSuQOm0-VFjUcSk5LGIKZxugs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
